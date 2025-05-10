@@ -1,0 +1,4 @@
+{
+    "sources": ["arxiv", "reddit", "rss", "twitter", "youtube"],
+    "output_format": "pdf"
+}
